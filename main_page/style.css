@@ -1,0 +1,77 @@
+.filtring_of_imgs {
+    filter: brightness(0) saturate(100%) invert(91%) sepia(66%) saturate(0%) hue-rotate(40deg) brightness(106%) contrast(104%);
+}
+.important_tittles {
+    color: #6b84ff !important;
+}
+.bg_dark {
+    background-color: #2a2c30 !important;
+}
+.bg_dark_little {
+    background-color: #404040 !important;
+}
+.special_dark {
+    background-color: #313338 !important;
+}
+.lit_tittle {
+    color: #898989 !important;
+}
+.speacial_for_gradient {
+    color: #fff !important;
+}
+.speacial_bg {
+    background-color: #606060;
+}
+.range_bg {
+    background-color: #5e5e5e;
+}
+
+.show {
+    transform: translateY(0px) !important;
+}
+.font_dark {
+    color: #fff !important;
+}
+.font_light {
+    color: var(--color) !important;
+}
+
+
+.bg_light {
+    background-color: #fff !important;
+}
+.border_set {
+    border-color: #525252 !important;
+}
+.hr_set {
+    border-color: #9e9e9e !important;
+    background-color: #9e9e9e !important;
+}
+.right {
+    background-color: #fff !important;
+    color: #000 !important;
+}
+.centry {
+    display: flex;
+    align-items: center;
+}
+.log_set {
+    background-color: #000 !important;
+}
+.sin {
+    background-color: #0077ff !important;
+}
+
+.line_for_2 {
+    transform: translateY(-10px) rotate(45deg);
+}
+.line_for_1 {
+    transform: translateY(5px) rotate(-45deg);
+}
+.filtring {
+    filter: brightness(0) saturate(100%) invert(92%) sepia(25%) saturate(0%) hue-rotate(168deg) brightness(106%) contrast(101%) !important;
+}
+
+.come {
+    right: 0 !important;
+}
